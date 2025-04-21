@@ -17,8 +17,12 @@ ATM System is a C-based application designed to simulate the functionalities of 
 To run the application, navigate to the root directory and execute the following commands:
 
 ```bash
-make
-./atm
+make or make all to build
+make clean to clean up
+make run to build and run
+make help to see available options
+
+
 ```
 
 ## Features
@@ -43,5 +47,5 @@ make
 
 For demonstration purposes, several user accounts have been pre-registered:
 
-- **Username**: Alice | **Password**: q1w2e3r4t5y6
-- **Username**: Michel | **Password**: q1w2e3r4t5y6
+- **Username**: Mars | **Password**: q1w2e3r4t5y6
+- **Username**: Eabderrahma | **Password**: q1w2e3r4t5y6
